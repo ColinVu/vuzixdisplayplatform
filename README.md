@@ -1,6 +1,6 @@
 # Vuzix Dev UI
 
-A React-based canvas editor using react-konva for creating and managing visual elements with time-based attributes.
+A React-based canvas editor using react-konva that allows you to create animated visualizations for the Vuzix Z100. Visualizations are exported in JSON and must be run through a separate IOS app to be displayed - will publish soon
 
 ## Features
 
